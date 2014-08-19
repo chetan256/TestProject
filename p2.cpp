@@ -2,7 +2,9 @@
 using namespace std;
 int main()
 {
-  int a,b;
-  cout<<a+b
+  cout<<div(2,1);
+  cout<<div(3,2);
+  cout<<div(4,4);
+  cout<<div(8,2);
   return 0;
   }
