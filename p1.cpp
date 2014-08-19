@@ -7,6 +7,7 @@ int main()
     cout<<div(3,2);
     cout<<div(4,4);
     cout<<div(8,2);
+    return 0;
 }
 int div(int a,int b)
 {
