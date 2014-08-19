@@ -1,4 +1,5 @@
 #include<iostream>
+#include "p1.cpp"
 using namespace std;
 int main()
 {
