@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
   FILE *f;
-  int a,b,val,i;
+  int a,b,val,i
   f=fopen("testresults.txt","r");
   if(f==NULL)
   {
